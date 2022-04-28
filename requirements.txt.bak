@@ -9,4 +9,3 @@ pythainlp
 fastapi
 uvicorn
 soundfile
-python-multipart
